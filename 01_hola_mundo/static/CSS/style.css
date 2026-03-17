@@ -1,0 +1,11 @@
+
+header{text-align: center;/*centrar texto*/
+    background-color:burlywood}
+    header:hover{background-color:yellowgreen;}
+main{background-color: wheat;}
+main:hover{background-color: maroon;}
+footer:hover{background-color: violet;}
+footer{background-color: darkkhaki;}
+h1 {color:black}
+h2{color:coral}
+p{color:darkred}
