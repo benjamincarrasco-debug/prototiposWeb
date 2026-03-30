@@ -1,0 +1,4 @@
+#ignorar estas carpetas
+
+.git/
+.vscode/
